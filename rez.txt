@@ -1,0 +1,71 @@
+INVOICE
+Please refer to Invoice Number on all payments or correspondence.
+Life Technologies Corporation
+
+T 18009556288
+Invoice Number: 80857218 18003312286
+F
+Date: 02/23/2022 thermofisher.com
+Order Number: 77014585 SO Tax ID: 330373077
+Order Date: 02/22/2022
+Purchase Order Number: PO−M002000
+Customer Contract/BPA Number:
+
+Bill To :  70231043
+FLUENT BIOSCIENCES INC
+15 PALMER ST
+Sepehr Kiani
+WATERTOWN MA 02472
+Ship To : 70708021
+FLUENT BIOSCIENCES INC
+−
+150 COOLIDGE AVE
+Cam LaJeunesse
+WATERTOWN MA 02472
+
+Release Number: PO−M002000
+Blanket Order Number:
+Shipper: FEDEX
+Date Shipped: 02/23/2022
+
+Line Catalog Description/ ID/ Size/ Sequence Number/ Lot Number/ Researcher Name Shipped Unit Extended
+Number Number Quantity Price Price
+1.000 A1049101 RPMI (ATCC MODIFICATION) 2 50.25 100.50
+500ML
+2185905
+DO NOT PAY
+2.000 4387936 NUCLEASE−FREE WATER 4X1 LITER 3 209.00 627.00
+EACH
+
+Carrier Shipment Number Tracking Number
+FEDEX 2018392024 569110472982
+FEDEX 2018392024 569110477024
+HANDLING CHARGES 42.95
+
+−−−−−−−−−−Tax group summary−−−−−−−−−−−
+Tax Code Description Taxable Amount Tax rate Tax Amount
+Tax 727.50 6.250 45.47
+
+−−−−−−−−−−Credit Card Details−−−−−−−−−−
+Credit Card Credit Card Number Amount
+Company
+VISA xxxxxxxxxxxx8216 816
+
+Remit to: Life Technologies Corporation Fuel Surcharge*
+DOMESTIC WIRES: Bank of America NT & SA, 100 West 33rd, NY, NY 10001.
+ABA:0260−0959−3 Account Number: 14591.03106 Subtotal 770.45
+Customer Name: Sepehr EFT/ACH INSTRUCTIONS: Bank of America NT & SA, San Diego Commercial,450 B Street, San Sales Tax 6.25  % 45.47
+Kiani Diego, CA, 92101. ABA: 122−000−661 Account Number: 1459103106 Prepaid Amount 815.92
+INTERNATIONAL WIRES: Bank of America NT & SA, 100 West 33rd, NY, NY 10001.
+ABA: 1210−0035−8 . S.W.I.F.T. BOFA US 3N Account Number: 14591.03106 TOTAL AMOUNT USD 0.00
+Customer Tel. Number: CHECKS − REMITTANCE ADDRESS: Life Technologies, 12088 Collections Center Dr., Chicago,
+(857) 600−0736 IL 60693.
+
+These commodities, technology, or software were shipped in accordance with the Export Administration regulations. Export, re−export or
+diversion contrary to U.S. law is prohibited.
+This is an invoice for products you purchased from Life Technologies Corporation, a Thermo Fisher Scientific company. The terms and conditions that
+apply to the transactions referred to on this document, unless otherwise agreed to in writing, can be found at www.thermofisher.com/termsandconditions.
+
+00100 1
+
+Page: 1 of 1 V−07−12

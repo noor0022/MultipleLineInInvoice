@@ -1,0 +1,71 @@
+INVOICE                                                                                          
+Please refer to Invoice Number on all payments or correspondence.   Life Technologies Corporation
+Invoice Number: 80937823                                            T 18009556288                
+Date: 03/09/2022                                                    F 18003312286                
+                                                                    thermofisher.com             
+Order Number: 77072094 SO                                           Tax ID: 330373077            
+Order Date: 03/08/2022                                                                           
+
+Purchase Order Number: VISA7832 Customer Contract/BPA Number:
+
+Bill To: 70231043        Ship To: 70708021     
+FLUENT BIOSCIENCES INC                         
+                         FLUENT BIOSCIENCES INC
+15 PALMER ST             Production lab        
+Sepehr Kiani             150 COOLIDGE AVE      
+WATERTOWN MA 02472       Yi Xue                
+                         WATERTOWN MA 02472    
+
+Release Number: Blanket Order Number:
+
+Shipper: FEDEX Date Shipped: 03/09/2022
+
+Line Number   Catalog Number   Description/ ID/ Size/ Sequence Number/ Lot Number/ Researcher Name                                                                                                                                                                                                                                                                                                           Shipped Quantity   Unit Price   Extended Price
+1.000         37002D           DYNABEADS MYONE SILANE 5 ML 40 MG/ML 242266800 Carrier Shipment Number Tracking Number FEDEX 2018571718 569111190453 HANDLING CHARGES −−−−−−−−−−Tax group summary−−−−−−−−−−− Tax Code Description Taxable Amount Tax rate Tax Amount Tax 384.00 6.250 24.00 −−−−−−−−−−Credit Card Details−−−−−−−−−− Credit Card Credit Card Number Amount Company VISA xxxxxxxxxxxx7832 451   1                  384.00       384.00 42.95  
+
+Remit to: Life Technologies Corporation
+
+Fuel Surcharge*
+
+DOMESTIC WIRES: Bank of America NT & SA, 100 West 33rd, NY, NY 10001.
+ABA: 0260−0959−3 Account Number: 14591.03106
+
+Subtotal
+
+426.95
+
+Customer Name: Sepehr
+
+EFT/ACH INSTRUCTIONS: Bank of America NT & SA, San Diego Commercial,450 B Street, San Sales Tax
+
+Diego, CA, 92101.
+ABA: 122−000−661 Account Number: 1459103106
+
+6.25 % 24.00
+
+Kiani
+
+Customer Tel. Number: (857) 600−0736
+
+INTERNATIONAL WIRES: Bank of America NT & SA, 100 West 33rd, NY, NY 10001.
+ABA: 1210−0035−8 .
+S.W.I.F.T. BOFA US 3N Account Number: 14591.03106
+
+CHECKS − REMITTANCE ADDRESS: Life Technologies, 12088 Collections Center Dr., Chicago, IL 60693.
+
+Prepaid Amount TOTAL AMOUNT USD
+
+450.95 0.00
+
+These commodities, technology, or software were shipped in accordance with the Export Administration regulations.
+Export, re−export or diversion contrary to U.S. law is prohibited.
+This is an invoice for products you purchased from Life Technologies Corporation, a Thermo Fisher Scientific company.
+The terms and conditions that apply to the transactions referred to on this document, unless otherwise agreed to in writing, can be found at www.thermofisher.com/termsandconditions.
+
+00100 1
+
+Page:1 of 1
+
+V−07−12
+
+TPAY ONO D
