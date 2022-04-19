@@ -3,6 +3,8 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "Google.Apis.Drive.v3": "[1.55.0.2566]",
+    "Google.Cloud.DocumentAI.V1Beta3": "[1.0.0-beta04]",
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.12.0-preview]",
     "UiPath.DocumentUnderstanding.OCR.LocalServer": "[1.1.0]",
     "UiPath.Excel.Activities": "[2.11.4]",
