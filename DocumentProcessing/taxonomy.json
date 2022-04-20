@@ -32,6 +32,82 @@
           ]
         },
         {
+          "FieldId": "Account.NoCategory.Invoice.invoice-no",
+          "FieldName": "invoice-no",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#20389d"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "v"
+            }
+          ]
+        },
+        {
+          "FieldId": "Account.NoCategory.Invoice.date",
+          "FieldName": "date",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#b34692"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ]
+        },
+        {
+          "FieldId": "Account.NoCategory.Invoice.premium-delivery-fee",
+          "FieldName": "PO-No",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#f727ca"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "r"
+            }
+          ]
+        },
+        {
+          "FieldId": "Account.NoCategory.Invoice.tax",
+          "FieldName": "tax",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#d19d82"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "x"
+            }
+          ]
+        },
+        {
           "FieldId": "Account.NoCategory.Invoice.shipping-And-Handling",
           "FieldName": "shipping-And-Handling",
           "IsMultiValue": false,
@@ -47,6 +123,25 @@
             {
               "Key": "Hotkey",
               "Value": "h"
+            }
+          ]
+        },
+        {
+          "FieldId": "Account.NoCategory.Invoice.DWI-charges",
+          "FieldName": "DWI-charges",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#279aab"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "w"
             }
           ]
         },
@@ -107,101 +202,6 @@
             {
               "Key": "Hotkey",
               "Value": "m"
-            }
-          ]
-        },
-        {
-          "FieldId": "Account.NoCategory.Invoice.invoice-no",
-          "FieldName": "invoice-no",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#20389d"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "v"
-            }
-          ]
-        },
-        {
-          "FieldId": "Account.NoCategory.Invoice.date",
-          "FieldName": "date",
-          "IsMultiValue": false,
-          "Type": "Date",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#b34692"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "e"
-            }
-          ]
-        },
-        {
-          "FieldId": "Account.NoCategory.Invoice.tax",
-          "FieldName": "tax",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#d19d82"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "x"
-            }
-          ]
-        },
-        {
-          "FieldId": "Account.NoCategory.Invoice.DWI-charges",
-          "FieldName": "DWI-charges",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#279aab"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "w"
-            }
-          ]
-        },
-        {
-          "FieldId": "Account.NoCategory.Invoice.premium-delivery-fee",
-          "FieldName": "premium-delivery-fee ",
-          "IsMultiValue": false,
-          "Type": "Number",
-          "DeriveFieldsFormat": "",
-          "Components": [],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "Color",
-              "Value": "#f727ca"
-            },
-            {
-              "Key": "Hotkey",
-              "Value": "r"
             }
           ]
         }
